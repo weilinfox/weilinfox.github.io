@@ -7,6 +7,8 @@
 
 + Loongson
 
+2020-12-11 [龙芯配置Jetbrains全套并解决兼容性问题](Loongson/龙芯配置Jetbrains全套并解决兼容性问题.md)
+
 
 + WiringPi
 
